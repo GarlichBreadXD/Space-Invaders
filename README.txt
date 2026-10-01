@@ -21,6 +21,10 @@ RESET GAME
 
 HOW TO IMPORT INTO MAKECODE:
 
-
+1. Copy the code in javascript.js
+2. Open Microsoft MakeCode for the micro:bit
+3. Click "New Project" and give it a name.
+4. Click JavaScript next to "Blocks"
+5. Delete any existing code and paste the javascript.js code.
 
 Made in Microsoft MakeCode for the Micro:Bit using Blocks and JavaScript.
